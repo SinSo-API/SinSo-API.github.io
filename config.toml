@@ -1,0 +1,15 @@
+base_url = "./"
+title = "SinSo API"
+description = "Largest Open-Source Sinhala Songs Lyrics API – Fast, Reliable & Ready for Integration"
+compile_sass = false
+build_search_index = false
+
+[extra]
+# Contact Information
+email_contact = "vishal@vishalrashmika.com"
+
+# Social Links
+github = "https://github.com/SinSo-API"
+
+# External Links
+docs_url = "https://api.sinso.vishalrashmika.com/v1/docs/"
